@@ -1,0 +1,1 @@
+const o="/old-docs/img/faq/alist-admin.png",s="/old-docs/img/faq/alist-admin.gif",a="/old-docs/img/faq/error.png",d="/old-docs/img/faq/add.jpeg",i="/old-docs/img/faq/123error.png",t="/old-docs/img/faq/download.png";export{o as _,s as a,a as b,d as c,i as d,t as e};
